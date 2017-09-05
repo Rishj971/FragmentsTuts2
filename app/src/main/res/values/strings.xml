@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FragmentsTuts2</string>
+    
+    <string-array name="country">
+<item>Germany</item>
+        <item>Czech Republic</item>
+        <item>Athens</item>
+        <item>Italy</item>
+    </string-array>
+
+    <string-array name="capital">
+        <item>Berlin</item>
+        <item>Prague</item>
+        <item>Greece</item>
+        <item>Rome</item>
+
+
+
+    </string-array>
+    
+</resources>
